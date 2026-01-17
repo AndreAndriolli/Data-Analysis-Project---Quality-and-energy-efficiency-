@@ -17,13 +17,3 @@ The complete scope of the project included the following analyses:
 - **Voltage Harmonics**
 - **Current Harmonics**
 
----
-
-## **Content of This Repository**
-This repository contains **only the analyses developed exclusively by me**:
-
-- **Voltage Unbalance**
-- **Current Unbalance**
-- **Voltage Harmonics**
-
-> The remaining analyses were part of the original group project but are not included in this repository.
